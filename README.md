@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year engineering student and an aspiring Full-Stack Developer, focusing on the MERN stack to strengthen my technical skills and build impactful projects.<br>I have developed several effective and interactive projects using React.js, Tailwind CSS, Bootstrap, Node.js, Express.js, and MongoDB.<br>I am now looking for an internship opportunity to gain real-world project experience and further enhance my development skills
+I'm a Computer Science Graduate (2026) and Full-Stack Developer specializing in the MERN stack, with a growing focus on AI-powered applications using RAG, LLMs, and vector search.<br>I've built projects like **TradeNest** (full-stack stock trading platform), **Wanderlust** (travel rental platform), and **Your-Own-AI** (a Java-based local RAG assistant powered by Ollama).<br>I'm experienced with React.js, Node.js, Express.js, MongoDB, MySQL, Java, Tailwind CSS, REST APIs, and JWT authentication.<br>I'm currently looking for full-time Software Developer roles where I can apply my skills and contribute to impactful, real-world products.
 
 
 ## 🌐 Socials:
